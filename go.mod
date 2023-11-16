@@ -1,4 +1,4 @@
-module github.com/go-web-templates/api
+module github.com/mateusnasciment/APIGOLANG
 
 go 1.21.3
 
