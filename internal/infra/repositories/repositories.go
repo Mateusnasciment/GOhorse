@@ -1,7 +1,7 @@
 package repositories
 
 import (
-	"github.com/go-web-templates/api/internal/application/interfaces/repositories"
+	"github.com/mateusnasciment/APIGOLANG/internal/application/interfaces/repositories"
 	"go.uber.org/fx"
 )
 

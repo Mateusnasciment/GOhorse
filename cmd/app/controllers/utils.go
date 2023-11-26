@@ -3,7 +3,7 @@ package controllers
 import (
 	"fmt"
 
-	"github.com/go-web-templates/api/internal/application/interfaces"
+	"github.com/mateusnasciment/APIGOLANG/internal/application/interfaces"
 	"github.com/gofiber/fiber/v2"
 	"github.com/google/uuid"
 )

@@ -1,9 +1,9 @@
 package eventhandlers
 
 import (
-	"github.com/go-web-templates/api/pkg/logger"
-	cacherepositories "github.com/go-web-templates/api/internal/application/interfaces/cache-repositories"
-	events "github.com/go-web-templates/api/internal/domain/events/books"
+	"github.com/mateusnasciment/APIGOLANG/pkg/logger"
+	cacherepositories "github.com/mateusnasciment/APIGOLANG/internal/application/interfaces/cache-repositories"
+	events "github.com/mateusnasciment/APIGOLANG/internal/domain/events/books"
 )
 
 type BooksEventHandler struct {

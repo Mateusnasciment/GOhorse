@@ -3,8 +3,8 @@ package webserver
 import (
 	"fmt"
 
-	"github.com/go-web-templates/api/cmd/app/controllers"
-	"github.com/go-web-templates/api/pkg/conf"
+	"github.com/mateusnasciment/APIGOLANG/cmd/app/controllers"
+	"github.com/mateusnasciment/APIGOLANG/pkg/conf"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/logger"
 	"go.uber.org/fx"

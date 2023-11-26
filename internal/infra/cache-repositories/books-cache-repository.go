@@ -3,8 +3,8 @@ package cacherepositories
 import (
 	"context"
 
-	"github.com/go-web-templates/api/internal/domain/entities"
-	"github.com/go-web-templates/api/internal/infra/data"
+	"github.com/mateusnasciment/APIGOLANG/internal/domain/entities"
+	"github.com/mateusnasciment/APIGOLANG/internal/infra/data"
 	"github.com/google/uuid"
 )
 

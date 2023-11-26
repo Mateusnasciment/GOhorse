@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	cacherepositories "github.com/go-web-templates/api/internal/application/interfaces/cache-repositories"
+	cacherepositories "github.com/mateusnasciment/APIGOLANG/internal/application/interfaces/cache-repositories"
 	"go.uber.org/fx"
 )
 

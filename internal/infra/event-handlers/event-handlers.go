@@ -1,7 +1,7 @@
 package eventhandlers
 
 import (
-	eventhandlers "github.com/go-web-templates/api/internal/application/interfaces/event-handlers"
+	eventhandlers "github.com/mateusnasciment/APIGOLANG/internal/application/interfaces/event-handlers"
 	"go.uber.org/fx"
 )
 

@@ -3,7 +3,7 @@ package data
 import (
 	"fmt"
 
-	"github.com/go-web-templates/api/pkg/conf"
+	"github.com/mateusnasciment/APIGOLANG/pkg/conf"
 	"github.com/redis/go-redis/v9"
 )
 

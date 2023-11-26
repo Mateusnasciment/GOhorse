@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"fmt"
 
-	"github.com/go-web-templates/api/pkg/conf"
+	"github.com/mateusnasciment/APIGOLANG/pkg/conf"
 	_ "github.com/lib/pq"
 )
 

@@ -1,7 +1,7 @@
 package services
 
 import (
-	"github.com/go-web-templates/api/internal/application/interfaces"
+	"github.com/mateusnasciment/APIGOLANG/internal/application/interfaces"
 	"go.uber.org/fx"
 )
 
