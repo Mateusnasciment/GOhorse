@@ -3,17 +3,17 @@ package main
 import (
 	"context"
 
-	"github.com/go-web-templates/api/cmd/app/controllers"
-	"github.com/go-web-templates/api/cmd/app/webserver"
-	"github.com/go-web-templates/api/internal/application/mappers"
-	appservices "github.com/go-web-templates/api/internal/application/services"
-	cacherepositories "github.com/go-web-templates/api/internal/infra/cache-repositories"
-	"github.com/go-web-templates/api/internal/infra/data"
-	eventhandlers "github.com/go-web-templates/api/internal/infra/event-handlers"
-	"github.com/go-web-templates/api/internal/infra/repositories"
-	infraservices "github.com/go-web-templates/api/internal/infra/services"
-	"github.com/go-web-templates/api/pkg/conf"
-	"github.com/go-web-templates/api/pkg/logger"
+	"github.com/mateusnasciment/APIGOLANG/cmd/app/controllers"
+	"github.com/mateusnasciment/APIGOLANG/cmd/app/webserver"
+	"github.com/mateusnasciment/APIGOLANG/internal/application/mappers"
+	appservices "github.com/mateusnasciment/APIGOLANG/internal/application/services"
+	cacherepositories "github.com/mateusnasciment/APIGOLANG/internal/infra/cache-repositories"
+	"github.com/mateusnasciment/APIGOLANG/internal/infra/data"
+	eventhandlers "github.com/mateusnasciment/APIGOLANG/internal/infra/event-handlers"
+	"github.com/mateusnasciment/APIGOLANG/internal/infra/repositories"
+	infraservices "github.com/mateusnasciment/APIGOLANG/internal/infra/services"
+	"github.com/mateusnasciment/APIGOLANG/pkg/conf"
+	"github.com/mateusnasciment/APIGOLANG/pkg/logger"
 	"go.uber.org/fx"
 )
 
