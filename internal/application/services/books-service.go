@@ -1,13 +1,13 @@
 package services
 
 import (
-	"github.com/go-web-templates/api/pkg/logger"
-	"github.com/go-web-templates/api/internal/application/dtos"
-	cacherepositories "github.com/go-web-templates/api/internal/application/interfaces/cache-repositories"
-	eventhandlers "github.com/go-web-templates/api/internal/application/interfaces/event-handlers"
-	"github.com/go-web-templates/api/internal/application/interfaces/repositories"
-	"github.com/go-web-templates/api/internal/application/mappers"
-	events "github.com/go-web-templates/api/internal/domain/events/books"
+	"github.com/mateusnasciment/APIGOLANG/pkg/logger"
+	"github.com/mateusnasciment/APIGOLANG/internal/application/dtos"
+	cacherepositories "github.com/mateusnasciment/APIGOLANG/internal/application/interfaces/cache-repositories"
+	eventhandlers "github.com/mateusnasciment/APIGOLANG/internal/application/interfaces/event-handlers"
+	"github.com/mateusnasciment/APIGOLANG/internal/application/interfaces/repositories"
+	"github.com/mateusnasciment/APIGOLANG/internal/application/mappers"
+	events "github.com/mateusnasciment/APIGOLANG/internal/domain/events/books"
 	"github.com/google/uuid"
 )
 

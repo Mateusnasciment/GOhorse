@@ -3,8 +3,8 @@ package mappers
 import (
 	"time"
 
-	"github.com/go-web-templates/api/internal/application/dtos"
-	"github.com/go-web-templates/api/internal/domain/entities"
+	"github.com/mateusnasciment/APIGOLANG/internal/application/dtos"
+	"github.com/mateusnasciment/APIGOLANG/internal/domain/entities"
 	"github.com/google/uuid"
 )
 

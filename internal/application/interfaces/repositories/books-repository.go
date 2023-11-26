@@ -1,7 +1,7 @@
 package repositories
 
 import (
-	"github.com/go-web-templates/api/internal/domain/entities"
+	"github.com/mateusnasciment/APIGOLANG/internal/domain/entities"
 	"github.com/google/uuid"
 )
 

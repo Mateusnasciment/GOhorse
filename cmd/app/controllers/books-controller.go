@@ -1,9 +1,9 @@
 package controllers
 
 import (
-	"github.com/go-web-templates/api/internal/application/dtos"
-	"github.com/go-web-templates/api/internal/application/interfaces"
-	"github.com/go-web-templates/api/internal/application/services"
+	"github.com/mateusnasciment/APIGOLANG/internal/application/dtos"
+	"github.com/mateusnasciment/APIGOLANG/internal/application/interfaces"
+	"github.com/mateusnasciment/APIGOLANG/internal/application/services"
 	"github.com/gofiber/fiber/v2"
 )
 
